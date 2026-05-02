@@ -1,2 +1,2 @@
 console.log('Welcome to js');
-console.log('object')
+console.log('object js')
